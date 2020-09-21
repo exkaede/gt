@@ -3,7 +3,7 @@ hey there
 
 happy again
 
-主世界reset后的第一次commit
+
 
 sep branch
 看看能写什么呢
@@ -17,6 +17,10 @@ zcc:
     test1
 
 
-    那我能写些什么呢？
+    那我能写些什么呢？(sun:我也不知道)
+
+
+
+主世界pull后第二次commit
 
 
