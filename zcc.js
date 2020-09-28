@@ -5,7 +5,7 @@
  */
 function testFunc(a) {
     console.log( a?a:"111" );
-    showtext("my text");
+    showtext("my word");
 }
 
 
