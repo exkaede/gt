@@ -7,7 +7,9 @@ function shownumber(num){
 }
 
 function showtext(str){
-    console.log(str);
+    var v=str;
+    v+="...";
+    console.log(v);
 
 
 }
