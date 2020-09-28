@@ -16,5 +16,5 @@ function showtext(str){
 
 function showtime(d){
     //开发中
-    //明天早上继续写
+    console.log("showtime 开发中...");
 }
