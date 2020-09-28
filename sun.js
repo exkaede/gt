@@ -13,3 +13,7 @@ function showtext(str){
 
 
 }
+
+function showtime(d){
+    //开发中
+}
